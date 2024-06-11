@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello, I'm J35S1CA007👋
 
-<!--
-**J35S1CA007/J35S1CA007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a beginner in the world of coding, excited to learn and grow my skills. Here are a few things about me:
+- 😄 Pronouns: She/her
+- 🌱 Currently learning: .Net app development
+- ⚡ Fun fact: I'm a Swiftie! 🎵
 
-Here are some ideas to get you started:
+<div style="width:100%;height:0;padding-bottom:100%;position:relative;">
+  <iframe src="https://giphy.com/embed/kdZnjyVVv5rPro7nAY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+</div>
+<p><a href="https://giphy.com/stickers/taylorswift-taylors-version-fearless-you-belong-with-me-kdZnjyVVv5rPro7nAY">via GIPHY</a></p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Happy coding! 🚀
